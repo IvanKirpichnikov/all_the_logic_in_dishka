@@ -1,0 +1,7 @@
+pyproject.toml
+src/dishka_only/__init__.py
+src/dishka_only.egg-info/PKG-INFO
+src/dishka_only.egg-info/SOURCES.txt
+src/dishka_only.egg-info/dependency_links.txt
+src/dishka_only.egg-info/requires.txt
+src/dishka_only.egg-info/top_level.txt
