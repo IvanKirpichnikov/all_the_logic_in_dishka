@@ -2,3 +2,5 @@ config.toml
 database.sqlite3
 .idea
 .venv
+src/*.egg-info
+__pycache__

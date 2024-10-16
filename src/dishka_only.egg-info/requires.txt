@@ -1,2 +1,0 @@
-dishka==1.3.0
-aiogram==3.13.1
